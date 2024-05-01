@@ -28,3 +28,9 @@ license: creativeml-openrail-m
 🗞️🔉Output Audio con·​vo 
 
 ![alt text](assets/13.png)
+
+.
+
+.
+
+.
