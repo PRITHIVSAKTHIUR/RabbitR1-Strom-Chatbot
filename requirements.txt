@@ -1,0 +1,8 @@
+edge-tts
+gradio
+asyncio
+transformers
+torch
+audiosegment
+scipy
+librosa
