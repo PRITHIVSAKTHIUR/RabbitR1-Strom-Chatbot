@@ -10,4 +10,21 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
+
+🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/RabbitR1-Strom-Chatbot
+
+🚀To Clone Just Install Git Past the Command : git clone https://huggingface.co/spaces/prithivMLmods/RabbitR1-Strom-Chatbot
+
+⛈️Input Prompt for computation : 
+
+![alt text](assets/11.png)
+
+🐰Processing with Mistral LLM
+
+![alt text](assets/12.png)
+
+🗞️🔉Output Audio con·​vo 
+
+![alt text](assets/13.png)
